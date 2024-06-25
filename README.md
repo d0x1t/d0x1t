@@ -10,6 +10,7 @@
 ### 👨‍💻 About Me :
 
 Hey! I'm Pierpaolo, an 🇮🇹 Computer Engineering undergrad with a passion for psychology 🧠 and cybersecurity. 🎓 I'm deeply fascinated by the intersection of human behavior and technology. I've delved into numerous books on social engineering, and I'm always keen to understand how psychological principles can influence cybersecurity. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+In addition to my academic pursuits, I'm an avid gamer 🎮, constantly exploring the latest in tech and gaming trends. Follow me for exciting projects and insights where I blend security, tech, psychology, and gaming. Let's dive into the world where human psychology meets cybersecurity and beyond! 🚀
 - ⚡ In my free time, I study new technologies in cybersecurity.
 - 📫 How to reach me: [email](mailto:p.paolino05@gmail.com)
 ---
