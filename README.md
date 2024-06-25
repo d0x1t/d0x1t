@@ -8,7 +8,8 @@
 ## 👋 Hey there!
 
 ### 👨‍💻 About Me :
-I am an 🇮🇹 Computer Engineering student and cybersecurity enthusiast! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+Hey! I'm Pierpaolo, an 🇮🇹 Computer Engineering undergrad with a passion for psychology 🧠 and cybersecurity. 🎓 I'm deeply fascinated by the intersection of human behavior and technology. I've delved into numerous books on social engineering, and I'm always keen to understand how psychological principles can influence cybersecurity. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ In my free time, I study new technologies in cybersecurity.
 - 📫 How to reach me: [email](mailto:p.paolino05@gmail.com)
 ---
